@@ -19,3 +19,4 @@ public class Cuadrado implements FiguraGeometrica{
 		this.nombre = nombre;
 	}
 }//class Cuadrado
+

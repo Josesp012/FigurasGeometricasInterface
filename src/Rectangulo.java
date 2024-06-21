@@ -1,4 +1,5 @@
 
+
 public class Rectangulo implements FiguraGeometrica{
 	private String nombre;
 	private double base;

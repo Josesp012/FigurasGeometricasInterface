@@ -1,4 +1,5 @@
 
+
 public class Triangulo implements FiguraGeometrica{
 	private String nombre;
 	private double base;
@@ -22,26 +23,4 @@ public class Triangulo implements FiguraGeometrica{
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	public double getBase() {
-		return base;
-	}
-	public void setBase(double base) {
-		this.base = base;
-	}
-	public double getAltura() {
-		return altura;
-	}
-	public void setAltura(double altura) {
-		this.altura = altura;
-	}
-	public double getLado() {
-		return lado;
-	}
-	public void setLado(double lado) {
-		this.lado = lado;
-	} 
-	
-	//1.Constructor
-	//2.Getter and stee
-	//3.
 }//class Triangulo
